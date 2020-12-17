@@ -1,0 +1,52 @@
+* {
+  margin: auto;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  height: 100px;
+  text-align: center;
+  background-color: lightblue;
+}
+
+header li {
+  display: inline-block;
+  margin-top: 10px;
+}
+
+header a {
+  text-decoration: none;
+  margin: 10px;
+}
+
+section {
+  background-color: lightgreen;
+  padding: 20px;
+}
+
+section h1 {
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+  background-color: pink;
+}
+
+footer nav {
+  display: inline-block;
+}
+
+footer ul {
+  text-decoration: none;
+  margin: 10px;
+  text-align: left;
+  list-style: none;
+  padding: 5px;
+}
+
+footer a {
+  text-decoration: none;
+}
+
